@@ -1,6 +1,6 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Open In Another-environment
+# <img src="public/icons/icon_48.png" width="45" align="left"> open-in-another-environment
 
-My Chrome Extension
+別環境で開くChrome Extensions
 
 ## Features
 
