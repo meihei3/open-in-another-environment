@@ -16,7 +16,7 @@
     "persistent": false
   },
   "permissions": [
-    "contexMenus",
+    "contextMenus",
     "tabs"
   ]
 }

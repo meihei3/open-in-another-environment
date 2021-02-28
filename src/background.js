@@ -4,17 +4,17 @@ const ENV = {
   production: {
     id: 'production',
     title: 'Production',
-    hostname: 'http://example.com',
+    hostname: 'https://example.com',
   },
   staging: {
     id: 'staging',
     title: 'Staging',
-    hostname: 'http://example.net',
+    hostname: 'https://example.net',
   },
   development: {
     id: 'development',
     title: 'Development',
-    hostname: 'http://example.edu',
+    hostname: 'https://example.edu',
   },
 };
 
